@@ -52,6 +52,7 @@ var TestState = (function (_super) {
         }
         var t = "";
         t += "Phaser Version: " + Phaser.VERSION + "\n";
+        t += "Click 'Fullscreen' to request fullscreen.\n\n";
         t += "Is Desktop? " + this.game.device.desktop + "\n";
         t += "Height: " + this.scale.height + "\n";
         t += "Width: " + this.scale.width + "\n";
