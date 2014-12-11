@@ -2,7 +2,7 @@
  * Created by Pete on 12/10/2014.
  */
 
-///<reference path="phaser.d.ts"/>
+///<reference path="2.2.1/phaser.d.ts"/>
 ///<reference path="testState.ts"/>
 
 window.onload = function() {

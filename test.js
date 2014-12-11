@@ -7,7 +7,7 @@ var __extends = this.__extends || function (d, b) {
     __.prototype = b.prototype;
     d.prototype = new __();
 };
-///<reference path="phaser.d.ts"/>
+///<reference path="2.2.1/phaser.d.ts"/>
 var TestState = (function (_super) {
     __extends(TestState, _super);
     function TestState() {
@@ -76,7 +76,7 @@ var TestState = (function (_super) {
 /**
  * Created by Pete on 12/10/2014.
  */
-///<reference path="phaser.d.ts"/>
+///<reference path="2.2.1/phaser.d.ts"/>
 ///<reference path="testState.ts"/>
 window.onload = function () {
     new Test();
