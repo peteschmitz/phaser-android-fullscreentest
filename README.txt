@@ -1,0 +1,1 @@
+Click/tap the "Fullscreen" text to make a fullscreen request

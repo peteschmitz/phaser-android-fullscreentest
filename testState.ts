@@ -55,6 +55,7 @@ class TestState extends Phaser.State {
         }
 
         var t:string = "";
+        t += "Phaser Version: " + Phaser.VERSION + "\n";
         t += "Is Desktop? " + this.game.device.desktop + "\n";
         t += "Height: " + this.scale.height + "\n";
         t += "Width: " + this.scale.width + "\n";
